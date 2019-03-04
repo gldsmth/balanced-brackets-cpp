@@ -12,8 +12,8 @@ By this logic, we say a sequence of brackets is balanced if the following cond
 	•	It contains no unmatched brackets.
 	•	The subset of brackets enclosed within the confines of a matched pair of brackets is also a matched pair of brackets.
 
-Task description:
-Write a function which takes a string to be checked.
-String can contain brackets and any other characters.
-Function should store/operate string using stack.
+Task description:\
+Write a function which takes a string to be checked.\
+String can contain brackets and any other characters.\
+Function should store/operate string using stack.\
 Function should display(using std::cout) string up to first unbalanced bracket or "OK" if all brackets are balanced.
